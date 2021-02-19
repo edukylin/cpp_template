@@ -1,2 +1,5 @@
 # cpp_template
-c++ template programming notes and codes.
+> C++泛型编程代码及笔记，包括：函数模板，函数实例化，参数类型推断等。
+
+###### 01_func_template：函数模板基础，实例化本质，参数类型推断。
+
